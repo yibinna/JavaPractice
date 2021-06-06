@@ -4,7 +4,7 @@ public class Card {
 private String suit;
 private String face;
 
-String MyfaceArray[] = {"1","2","3","4","5","6","7","8","9","10","Queen","King","Joker","Ace"};
+String MyfaceArray[] = {"1","2","3","4","5","6","7","8","9","10","Queen","King","Ace"};
 String MysuitArray[] = {"Hearts","Spades","Diamonds","Clubs"};
 
 
